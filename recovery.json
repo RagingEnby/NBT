@@ -1,0 +1,12 @@
+{
+  "source": "https://github.com/RagingEnby/NBT",
+  "original_commit": "7c672e11c4daaef3c1ee070c2e401e4b7b9efff8",
+  "installed_version": "1.5.1",
+  "recovered_files_sha256": {
+    "__init__.py": "282185551e626a37ab7c0238fa86275af6bbae3e4d6b31dbd83b6001ad40fffe",
+    "chunk.py": "7f6ed4ae19ff842c2a3d08e03e9c403018cfae7bdd67c11d991d2669d0c0aebe",
+    "nbt.py": "d500d6680b3352930ae50e43f2418dda2ea14a2a52d2f0af8ca85fd65db216e7",
+    "region.py": "5d94c6ce98f742c1bb9abd0d458b42b83ab2cf03321455cef1cfc78621ce322b",
+    "world.py": "952a27e555ef19df8ca0337b8ade74b6186d9e2115f78ca1edce512192b7f098"
+  }
+}

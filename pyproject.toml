@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "NBT"
+version = "1.5.1"
+description = "Named Binary Tag reader and writer"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE.txt"}
+authors = [{name = "Thomas Woolford", email = "woolford.thomas@gmail.com"}]
+dependencies = ["mutf8>=1.0.6,<2"]
+
+[project.urls]
+upstream = "https://github.com/twoolie/NBT"
+fork = "https://github.com/RagingEnby/NBT"
+
+[tool.hatch.build.targets.wheel]
+packages = ["nbt"]
